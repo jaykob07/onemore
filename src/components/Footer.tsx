@@ -30,7 +30,7 @@ export default function Footer() {
             <h3 className="font-display font-semibold text-base sm:text-lg mb-3 sm:mb-4">Enlaces</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="/" className="text-gray-400 hover:text-[#FCBAA0] transition-colors text-xs sm:text-sm">
+                <Link to="/" className="text-gray-400 hover:text-[#FCBAA0] transition-colors text-xs sm:text-sm">
                   Inicio
                 </Link>
               </li>
