@@ -49,10 +49,10 @@ export default function ContactoPage() {
                                     <h3 className="font-bold text-lg mb-1">Email</h3>
                                     <p className="text-gray-600 mb-2">Para consultas generales</p>
                                     <a
-                                        href="mailto:contacto@onemore.com.co"
+                                        href="mailto:aginversionesglobal@gmail.com"
                                         className="text-[#FA8072] font-semibold hover:underline"
                                     >
-                                        contacto@onemore.com.co
+                                        aginversionesglobal@gmail.com
                                     </a>
                                 </div>
                             </Card>

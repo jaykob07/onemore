@@ -111,7 +111,7 @@ export default function Footer() {
                 <FaTiktok className="w-4 h-4 sm:w-5 sm:h-5" />
               </a>
               <a
-                href="mailto:info@onemore.com"
+                href="mailto:aginversionesglobal@gmail.com"
                 className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-gray-800 hover:bg-[#FCBAA0] transition-colors flex items-center justify-center"
                 aria-label="Email"
               >
