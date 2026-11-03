@@ -51,7 +51,7 @@ export default function GaleriaPage() {
             Galería
           </h1>
           <p className="text-base sm:text-lg md:text-xl text-gray-600 max-w-2xl mx-auto px-4">
-            Asi lucen algunas de nuestras piezas. Explora nuestra colección de accesorios únicos.
+            Asi lucen algunas de nuestras piezas, Explora nuestra colección de accesorios únicos.
           </p>
           <p className="text-base sm:text-lg md:text-xl text-gray-600 max-w-2xl mx-auto px-4">
             Cada pieza cuenta una historia de elegancia y estilo.
